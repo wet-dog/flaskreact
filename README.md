@@ -18,6 +18,10 @@ In the project directory, run:
 
 ###  `npm install`
 
+Install Yarn:
+
+###  `npm install -g yarn`
+
 
 
 # Getting Started with Local Development
