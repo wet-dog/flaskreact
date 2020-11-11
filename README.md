@@ -1,3 +1,23 @@
+# Creating a Python Virtual Environment
+
+In the project directory, you can run:
+
+### `pip install -r requirements.txt`
+
+
+
+# Getting Node.js Packages
+
+Install Node.js and NPM here:
+
+### https://nodejs.org/en/
+
+In the project directory, you can run:
+
+###  `npm install`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
